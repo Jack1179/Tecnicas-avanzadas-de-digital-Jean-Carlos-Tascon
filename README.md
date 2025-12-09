@@ -1,2 +1,2 @@
-# Tecnicas-avanzadas-de-digital-Jean-Carlos-Tascon
-Resumen de la materia de tecnicas avanzadas de ingenieria unal
+# Tecnicas avanzadas de digital Jean Carlos Tascon
+En este repositorio mostraremos el proseso y procedimeintos hechos para la clase Tecnicas avanzadas de digitales, el objetico de esta clase es crear un chip fisico funcional basandose en los diseños de Bruno Levy sobre prosesadores eb fpga especificamente el RISC-V FemtoRV, su trabajo se encuentra en siguiente link https://github.com/BrunoLevy/learn-fpga/tree/master
