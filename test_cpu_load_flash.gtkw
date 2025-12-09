@@ -1,0 +1,212 @@
+[*]
+[*] GTKWave Analyzer v3.3.121 (w)1999-2024 BSI
+[*] Fri Oct 31 15:05:45 2025
+[*]
+[dumpfile] "/Work/VLSI/VLSI/femtoRV/bench.vcd"
+[dumpfile_mtime] "Fri Oct 31 13:23:26 2025"
+[dumpfile_size] 33840146
+[savefile] "/Work/VLSI/VLSI/femtoRV/test_cpu_load_flash.gtkw"
+[timestart] 12261000
+[size] 1648 983
+[pos] -325 -192
+*-20.787039 16020000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] bench.
+[treeopen] bench.uut.
+[sst_width] 417
+[signals_width] 378
+[sst_expanded] 1
+[sst_vpaned_height] 632
+@28
+bench.uut.clk
+bench.uut.resetn
+@22
+[color] 3
+bench.uut.CPU.instr[31:2]
+[color] 3
+bench.uut.cs[6:0]
+bench.uut.CPU.state[3:0]
+bench.uut.CPU.PC[23:0]
+@23
+bench.uut.mem_rdata[31:0]
+@28
+bench.uut.rd
+@22
+bench.uut.cs[6:0]
+@28
+[color] 2
+bench.uut.spi_clk
+[color] 2
+bench.uut.spi_cs_n
+[color] 2
+bench.uut.spi_miso
+[color] 2
+bench.uut.spi_mosi
+[color] 2
+bench.uut.mapped_spi_flash.rstrb
+@22
+[color] 2
+bench.uut.CPU.state[3:0]
+[color] 2
+bench.uut.mapped_spi_flash.rcv_bitcount[5:0]
+[color] 2
+bench.uut.mapped_spi_flash.snd_bitcount[5:0]
+@c00022
+[color] 2
+bench.uut.mapped_spi_flash.rcv_data[31:0]
+@28
+[color] 2
+(0)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(1)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(2)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(3)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(4)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(5)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(6)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(7)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(8)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(9)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(10)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(11)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(12)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(13)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(14)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(15)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(16)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(17)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(18)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(19)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(20)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(21)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(22)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(23)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(24)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(25)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(26)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(27)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(28)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(29)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(30)bench.uut.mapped_spi_flash.rcv_data[31:0]
+[color] 2
+(31)bench.uut.mapped_spi_flash.rcv_data[31:0]
+@1401200
+-group_end
+@22
+[color] 2
+bench.uut.mapped_spi_flash.word_address[19:0]
+[color] 2
+bench.uut.mapped_spi_flash.cmd_addr[31:0]
+@28
+[color] 3
+bench.uut.spi_cs_n_ram
+[color] 3
+bench.uut.spi_miso_ram
+[color] 3
+bench.uut.spi_mosi_ram
+[color] 3
+bench.uut.spi_clk_ram
+[color] 3
+bench.uut.mapped_spi_ram.CS_N
+[color] 3
+bench.uut.mapped_spi_ram.rd
+[color] 3
+bench.uut.mapped_spi_ram.wr
+@22
+bench.uut.mapped_spi_ram.rcv_data[31:0]
+@28
+bench.uut.mapped_spi_flash.rbusy
+@800022
+bench.uut.cs[6:0]
+@28
+(0)bench.uut.cs[6:0]
+(1)bench.uut.cs[6:0]
+(2)bench.uut.cs[6:0]
+(3)bench.uut.cs[6:0]
+(4)bench.uut.cs[6:0]
+(5)bench.uut.cs[6:0]
+(6)bench.uut.cs[6:0]
+@1001200
+-group_end
+@22
+bench.uut.mem_rdata[31:0]
+bench.uut.CPU.mem_addr[31:0]
+bench.uut.CPU.PC[23:0]
+bench.uut.CPU.aluShamt[4:0]
+@28
+bench.uut.CPU.aluBusy
+bench.uut.CPU.mem_rbusy
+bench.uut.per_uart.cs
+@22
+bench.uut.CPU.rs1[31:0]
+bench.uut.CPU.rs2[31:0]
+@28
+bench.uut.CPU.writeBack
+@22
+bench.uut.CPU.writeBackData[31:0]
+bench.uut.CPU.aluIn1[31:0]
+bench.uut.CPU.aluIn2[31:0]
+@28
+bench.uut.CPU.mem_rstrb
+bench.uut.CPU.aluWr
+[color] 5
+(0)bench.uut.cs[6:0]
+@820
+[color] 6
+bench.uut.per_uart.d_in_uart[7:0]
+@28
+[color] 6
+bench.uut.RXD
+[color] 6
+bench.uut.per_uart.uart0.rx_avail
+[color] 6
+bench.uut.TXD
+[color] 6
+bench.uut.per_uart.tx_busy
+[color] 6
+bench.uut.per_uart.cs
+@820
+[color] 6
+bench.uut.per_uart.uart0.tx_data[7:0]
+@800022
+bench.uut.cs[6:0]
+@28
+(0)bench.uut.cs[6:0]
+(1)bench.uut.cs[6:0]
+(2)bench.uut.cs[6:0]
+(3)bench.uut.cs[6:0]
+(4)bench.uut.cs[6:0]
+(5)bench.uut.cs[6:0]
+(6)bench.uut.cs[6:0]
+@1001200
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0
